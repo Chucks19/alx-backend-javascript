@@ -4,6 +4,7 @@ export default function iterateThroughObject(reportWithIterator) {
   for (const [index, item] of Object.entries(reportWithIterator)) {
     output += `${item}`;
 
+    // eslint-disable-next-line radix
     if (parseInt(index) !== reportWithIterator.length - 1) {
       output += ' | ';
     }
