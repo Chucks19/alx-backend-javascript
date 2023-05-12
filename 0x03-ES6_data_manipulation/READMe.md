@@ -1,9 +1,0 @@
-**# 0x00. ES6 Basics**
-
-This project introduce concepts on
-    what ES6 is
-    New features introduced in ES6
-    The difference between a constant and a variable
-    Block-scoped variables
-   
-   
