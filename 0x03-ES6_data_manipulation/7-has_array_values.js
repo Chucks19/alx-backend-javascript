@@ -7,5 +7,5 @@ export default function hasValuesFromArray(set, list) {
     }
   });
 
-       return verdict;
+  return verdict;
 }
